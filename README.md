@@ -3,7 +3,7 @@ Regression test task for Quantum. Due to github limitations, train data for regr
 
 ## Files
 
-config.py - config
-model.py - model architecture
-train.py - file for training model
-predict.py - making predictions with model weights file
+config.py - config  
+model.py - model architecture  
+train.py - file for training model  
+predict.py - making predictions with model weights file  
