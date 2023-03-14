@@ -7,3 +7,4 @@ config.py - config
 model.py - model architecture  
 train.py - file for training model  
 predict.py - making predictions with model weights file  
+predictions.csv - file with predictions
